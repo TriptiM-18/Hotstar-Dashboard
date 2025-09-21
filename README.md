@@ -85,7 +85,7 @@ To provide an intuitive analytical tool that:
 
 ## 📸 Screenshots / Demos
 
-![Hotstar Dashboard Preview]([Hotstar Dashboard.png](https://github.com/TriptiM-18/Hotstar-Dashboard/blob/main/Hotstar%20Dashboard.png))
+![Hotstar Dashboard Preview](https://github.com/TriptiM-18/Hotstar-Dashboard/blob/main/Hotstar%20Dashboard.png))
 
 ---
 
